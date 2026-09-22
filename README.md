@@ -1,24 +1,24 @@
-# 💫 **Ben Kimim**
+# 💫 **About Me**
 
-Merhaba, adım **Efe**. 17 yaşındayım ve yaklaşık **5 yıldır aktif olarak yazılım geliştiriyorum**.
-Çoğunlukla **Java** ve **PHP** teknolojileri üzerinde çalışıyor, özellikle **Java diline ileri seviyede hâkimim**.
-Ayrıca **Python** ve **C#** dillerinde de geliştirme yapabilecek seviyede bilgi ve deneyime sahibim.
+Hello, my name is **Efe**. I'm 17 years old and I have been **actively developing software for approximately 4 years**.
 
-Minecraft sunucuları üzerinde geliştirmeler yaparak önemli deneyimler kazandım.
-**Kendi clientimi, eklentilerimi (plugins) ve modlarımı geliştirdim.**
-Çeşitli sunucularda **geliştirici olarak görev aldım** ve bazı sunucuların da **kuruculuğunu/sahipliğini yaptım**.
+I mainly work with **Java** technologies, and I have an **intermediate-level proficiency in Java**.
+I also have enough knowledge and experience to develop projects using **Python** and **C#**.
 
-**LoraMC, Minevi ve FlorexMC** gibi sunucularda görev alarak projelerin teknik gelişimine katkıda bulundum.
-Bu süreçte geliştirdiğim sistemler ve yönettiğim projeler sayesinde **başarılı sonuçlar elde ettim**.
+I have gained significant experience by developing projects for Minecraft servers.
+I have developed **my own client, plugins, and mods**.
+I have worked as a **developer on various servers** and have also been the **founder/owner of several servers**.
 
-💻 **Tasarım Yetkinlikleri:**
+I have contributed to the technical development of projects by working on servers such as **LoraMC, Minevi, and FlorexMC**.
+Through the systems I developed and the projects I managed, I have achieved **successful results**.
 
-* Orta seviyede **Photoshop**
-* Orta seviyede **After Effects**
+💻 **Design Skills:**
+
+* Intermediate-level **After Effects**
 
 ---
 
-## 🌐 **Sosyal Medya & İletişim**
+## 🌐 **Social Media & Contact**
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord\&logoColor=white)](https://discord.gg/ikincielkralliklariseth)
 
@@ -27,7 +27,6 @@ Bu süreçte geliştirdiğim sistemler ve yönettiğim projeler sayesinde **baş
 # 🛠️ **Tech Stack**
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge\&logo=php\&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge\&logo=csharp\&logoColor=white)
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge\&logo=adobe\&logoColor=white)
