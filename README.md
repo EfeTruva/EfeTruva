@@ -25,6 +25,5 @@ Through the systems I developed and the projects I managed, I have achieved **su
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge\&logo=csharp\&logoColor=white)
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge\&logo=adobe\&logoColor=white)
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge\&logo=Adobe%20After%20Effects\&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge\&logo=adobe%20photoshop\&logoColor=white)
 
 ---
